@@ -1,3 +1,3 @@
 var name = 'World'
-name = 'Megulhador JS'
+name = 'Megulhador'
 console.log('Hello, ' + name)
